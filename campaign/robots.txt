@@ -1,6 +1,0 @@
-User-agent: *
-Disallow: 
-Disallow: /cgi-bin/
-Disallow: /bk/
-Disallow: /images1/
-Disallow: /oldsite/
